@@ -12,4 +12,4 @@ Then run the install.sh script in the root directory.
 Licence
 -------
 
-As this is effectively a derivative of Silex and associated documentation, it is available under the same licence as Silex itself - i.e. MIT.
+As this is effectively a derivative of Silex and associated documentation, it is available under the same MIT licence.
