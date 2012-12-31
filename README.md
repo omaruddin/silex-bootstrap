@@ -1,4 +1,4 @@
-silex-bootstrap
+Silex Bootstrap
 ===============
 
-Silx Bootstrap
+Simple repository for bootstrapping a Silex installation.
