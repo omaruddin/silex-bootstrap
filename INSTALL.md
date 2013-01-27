@@ -8,7 +8,7 @@ The Silex bootstrapping process requires the following software (minimum version
 
 Clone the repository using:
 
-    git://github.com/pwaring/silex-bootstrap.git
+    git clone git://github.com/pwaring/silex-bootstrap.git
 
 Then run the install.sh script in the root directory.
 
