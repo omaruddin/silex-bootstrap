@@ -3,8 +3,6 @@ Silex Bootstrap
 
 Simple repository for bootstrapping a Silex installation. Comes with Twig enabled and some default directories.
 
-
-
 Licence
 -------
 
