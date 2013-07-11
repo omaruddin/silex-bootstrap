@@ -11,6 +11,9 @@ $app->register(new Silex\Provider\TwigServiceProvider(), array(
 // Debugging is on by default - you may wish to change this on a per-host basis
 $app['debug'] = true;
 
-// definitions
+// Routes
+$app->get('/', function() use ($app) {
+  return $app['twig']->render('index.html');
+});
 
 $app->run();
